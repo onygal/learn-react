@@ -21,7 +21,7 @@ export default function App() {
     console.log(valor)
   }
 
-  meu('teste')
+//  meu('teste')
 
   return (
 
